@@ -1,0 +1,38 @@
+table , th , tr ,td{
+    border: 1px solid;
+    position: relative;
+    left: 100%;
+}
+
+
+ body {
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  header{
+    background-color:RGBA(211, 211, 211, 0.548);
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+  }
+
+main form{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    text-align: center;
+    background-color:RGB(78, 78, 78);
+    opacity: 0.5;
+    
+} 
+form label{
+    font-size: large;
+    font-weight: bold;
+}
+main img{
+width: 100px;
+height:500px;
+}
+footer{
+    text-align: center;
+}
